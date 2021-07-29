@@ -3934,7 +3934,7 @@ m=J
 s=3
 return P.ad(V.MA(),$async$pe)
 case 3:o=n.iN(m.bq(b.a,"uri"))
-if(o==null)o="http://localhost:8000"
+if(o==null)o="https://api.dickys.tech"
 p=new E.t7()
 p.a=o
 q=p
@@ -4887,7 +4887,7 @@ K2:function K2(a){this.a=a},
 y7:function y7(a,b){this.c=a
 this.a=b},
 CR:function CR(a){var _=this
-_.d=2
+_.d=0
 _.a=_.e=null
 _.b=a
 _.c=null},
